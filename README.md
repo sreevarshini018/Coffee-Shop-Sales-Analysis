@@ -38,3 +38,4 @@ python src/analysis.py
 ## Folder Structure
 
 See repository folders for code, SQL queries, and generated images.
+
